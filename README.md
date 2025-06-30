@@ -1,8 +1,11 @@
 # mysql_green
 绿色版mysql制作
 ## 别人造de轮子：
+### 一
 https://www.cnblogs.com/lingdurebing/p/114514_.html
+### 二
 https://zhuanlan.zhihu.com/p/707940637
+    见仓库`MySQL精简版合集.rar`，实测`mariadb精简版`运行时只占用`53`MB，而`mysql5.7精简版 `占用`100+`MB。并且,`mariadb精简版`解压后磁盘占用不到`20`MB,而`mysql5.7精简版 `占用`73+`MB。
 ## 解压官方程序压缩包
 解压`mysql-noinstall-5.0.15-win32.zip`（官方下载地址:https://cdn.mysql.com/archives/mysql-5.0/mysql-noinstall-5.0.15-win32.zip），下载其他版本：`https://downloads.mysql.com/archives/community/`
 最后一个支持xp的mysql版本是`5.0.27`。
