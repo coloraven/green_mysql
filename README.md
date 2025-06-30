@@ -1,8 +1,11 @@
 # mysql_green
 绿色版mysql制作
-
+## 别人造de轮子：
+https://www.cnblogs.com/lingdurebing/p/114514_.html
+https://zhuanlan.zhihu.com/p/707940637
 ## 解压官方程序压缩包
 解压`mysql-noinstall-5.0.15-win32.zip`（官方下载地址:https://cdn.mysql.com/archives/mysql-5.0/mysql-noinstall-5.0.15-win32.zip），下载其他版本：`https://downloads.mysql.com/archives/community/`
+最后一个支持xp的mysql版本是`5.0.27`。
 
 ## 将本项目中stop.bat、start.bat、my.ini、init.sql四个文件放在解压好的根目录中
 
